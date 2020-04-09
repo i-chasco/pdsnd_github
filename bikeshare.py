@@ -208,6 +208,8 @@ def raw_data(df):
 
 
 def main():
+    ''' Uses the previously defined functions to interactively explore
+    US Bikeshare Databases'''
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
