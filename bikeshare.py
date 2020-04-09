@@ -220,6 +220,7 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower()[0] != 'y':
+            print("Thank you for using this app! And see you soon!")
             break
 
 
