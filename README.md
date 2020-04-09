@@ -11,4 +11,4 @@ This project lets the user analize US Bikeshare usage data, for three cities: Ch
 bikeshare.py, chicago.csv, washington.csv, new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I want to thank Adelina for letting me know about Udacity
