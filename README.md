@@ -5,7 +5,7 @@ This project was created April 9, 2020 (during the coronavirus lockdown).
 Explore US Bikeshare Data - A python(pandas) project by Iker Chasco
 
 ### Description
-Describe what your project is about and what it does
+This project lets the user analize US Bikeshare usage data, for three cities: Chicago, New York City and Washington
 
 ### Files used
 Include the files used
