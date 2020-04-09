@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created April 9, 2020 (during the coronavirus lockdown).
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data - A python(pandas) project by Iker Chasco
 
 ### Description
-Describe what your project is about and what it does
+This project lets the user analize US Bikeshare usage data, for three cities: Chicago, New York City and Washington
 
 ### Files used
-Include the files used
+bikeshare.py, chicago.csv, washington.csv, new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
